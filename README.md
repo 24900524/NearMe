@@ -206,6 +206,7 @@ college.html
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/68ac8c0a-f1fd-4ed6-b357-1eb06a39ea60)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
